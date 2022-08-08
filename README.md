@@ -40,7 +40,11 @@ Gait analysis based human recognition system `April 2016`
 
 ## Projects
 
-ANY project
+docker-flsk
+dojo-jump
+2048
+sample-java-app 
+codebuild-pyhello
 
 <!-- ### Footer
 
